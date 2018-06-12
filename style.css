@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+
+#map {
+	width: 50%;
+	height: 100vh;
+	float: left;
+
+}
+
+.ubicacion {
+	width: 50%;
+	background-color: pink;
+	float: left;
+	padding: 50px;
+}
